@@ -12,6 +12,11 @@ export default new Router({
       component: Home
     },
     {
+      path: '/simulation',
+      name: 'simulation',
+      component: Simulation
+    },
+    {
       path: '/about',
       name: 'about',
       // route level code-splitting
