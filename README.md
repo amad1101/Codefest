@@ -1,4 +1,4 @@
-# hackaton-project
+# codefest
 
 ## Project setup
 ```
